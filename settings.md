@@ -6,4 +6,3 @@
 6. Check grammatical mistakes
 7. Password symbols not less 8 characters
 8. User is Logged out and redirected to the Homepage as guest
-
